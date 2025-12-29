@@ -14,7 +14,7 @@ jobs:
     env:
       IMAGE_NAME: todo-get-tasks-api
       IMAGE_TAG: v1
-      ACR_NAME: akscon101
+      ACR_NAME: akscon1
       ACR_LOGIN_SERVER: akscon1.azurecr.io
 
     steps:
