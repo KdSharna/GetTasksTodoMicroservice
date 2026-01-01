@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: todo-get-task-api
-        image: akscon1.azurecr.io/todo-get-tasks-api:v1
+        image: akscon1.azurecr.io/todo-get-task-api:v1
         ports:
         - containerPort: 8000
         env: 
